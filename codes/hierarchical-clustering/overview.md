@@ -1,1 +1,3 @@
+<p align="justify">
 Hierarchical clustering is a method of cluster analysis that seeks to build a hierarchy of clusters, where each cluster is nested as a subtree under a superior cluster. The hierarchy can be represented as a dendrogram, which allows visualizing the relationships between the clusters. There are two main approaches to hierarchical clustering: Agglomerative and Divisive. The former starts with individual elements as singleton clusters and merges them into successively larger clusters, while the latter starts with the whole set and splits it into successively smaller clusters.
+</p>
