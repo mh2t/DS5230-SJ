@@ -1,1 +1,3 @@
-yes
+<p align="justify">
+Linear models are a class of statistical models that assume a linear relationship between a dependent variable and one or more independent variables. These models are widely used in various fields of science and engineering, including economics, biology, psychology, and computer science. In a linear model, the goal is to estimate the coefficients that represent the magnitude and direction of the relationship between the variables. The most popular types of linear models are simple linear regression, multiple linear regression, logistic regression, and linear discriminant analysis. Linear models are relatively easy to interpret and can provide useful insights into the underlying data and relationships between variables. However, they are limited in their ability to capture complex nonlinear relationships and may not always be appropriate for certain types of data.  
+</p>
